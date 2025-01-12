@@ -11,6 +11,9 @@ public class Main {
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
             System.out.println("i jo la = " + i);
             System.out.println("i jo shna1 2 branch 2 = " + i);
+            System.out.println("i jo shna1 2= " + i);
+            System.out.println("from master");
+
         }
     }
 }
