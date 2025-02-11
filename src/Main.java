@@ -15,5 +15,6 @@ public class Main {
             System.out.println("from master");
 
         }
+                System.out.printf("Hello and welcome!1");
     }
 }
